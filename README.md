@@ -20,7 +20,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## HOW TO DEPLOY 
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://youtu.be/xfHcm_e9eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
 ### Host Friday In Heroku
@@ -29,7 +29,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## Telegram-String
 
-[![Run on Repl.it](https://session.DevMHM.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://session.devmhm.repl.run)
 
 
 ### The Normal Way
