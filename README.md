@@ -11,7 +11,7 @@
 Best User Bot To Manage Your Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## © By Team #SᴛᴀʀᴋGᴀɴɢ™
+## © By DevMHM
 
 ### For any query or want to know how it works join Group And Channel 
 
@@ -23,7 +23,7 @@ Best User Bot To Manage Your Telegram Account
 <a href="https://youtu.be/xfHcm_e9eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
-### Host Friday In Heroku
+### Host X-MHM In Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dev-MHM/X-MHM)
 
